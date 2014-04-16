@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Private> 
+  <!--src//xml//Debatebrf269asb9632uka//PrivateDialogB.xmlPrivate-->  
+  <Claim/>  
+  <Challenge/>  
+  <Evidence/>  
+  <BipolarQuestion/>  
+  <Chat/>  
+  <claim id="wsd278bvk6644msl" team="B"> 
+    <id>wsd278bvk6644msl</id>  
+    <title>claim test</title>  
+    <description>claim test</description>  
+    <type>claim</type>  
+    <timeAdded>16/04/2014 15:19 下午</timeAdded>  
+    <name>Lily</name>  
+    <parentId/>  
+    <debateId>brf269asb9632uka</debateId>  
+    <dialogType>Public</dialogType>  
+    <isDeleted>false</isDeleted> 
+  </claim>  
+  <chat> 
+    <content>Made a new Clam: claim test</content>  
+    <timeAdded>16/04/2014 15:19 下午</timeAdded>  
+    <name>Lily</name>  
+    <debateId>brf269asb9632uka</debateId> 
+  </chat> 
+</Private>

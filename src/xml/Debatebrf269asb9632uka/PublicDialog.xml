@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Public> 
+  <!--src//xml//Debatebrf269asb9632uka//PublicDialog.xmlPublic-->  
+  <Tutor/>  
+  <Player/>  
+  <Claim/>  
+  <Challenge/>  
+  <Evidence/>  
+  <BipolarQuestion/>  
+  <Chat/>  
+  <claim id="kri274tgw3827utq" team="A"> 
+    <id>kri274tgw3827utq</id>  
+    <title>claim test</title>  
+    <description>claim test</description>  
+    <type>claim</type>  
+    <timeAdded>16/04/2014 15:19 下午</timeAdded>  
+    <name>Amy</name>  
+    <parentId/>  
+    <debateId>brf269asb9632uka</debateId>  
+    <dialogType>Public</dialogType>  
+    <isDeleted>false</isDeleted> 
+  </claim>  
+  <claim id="wsd278bvk6644msl" team="B">
+    <id>wsd278bvk6644msl</id>
+    <title>claim test</title>
+    <description>claim test</description>
+    <type>claim</type>
+    <timeAdded>16/04/2014 15:19 下午</timeAdded>
+    <name>Lily</name>
+    <parentId></parentId>
+    <debateId>brf269asb9632uka</debateId>
+    <dialogType>Public</dialogType>
+    <isDeleted>false</isDeleted>
+  </claim>
+</Public>

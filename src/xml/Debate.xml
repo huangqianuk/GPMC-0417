@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Debate> 
+  <!--src/com/gpmc/xml/Debate-->  
+  <!-- Debate status ::= Active/Compeleted -->  
+  <!-- Debate winner :: = -1/0/1 (-1 no winner; 0 team A; 1 team B) -->  
+  <debate id="brf269asb9632uka"> 
+    <id>brf269asb9632uka</id>  
+    <topic>Debate Test</topic>  
+    <description>Debate Test</description>  
+    <maxTurns>200</maxTurns>  
+    <turnDuration>198</turnDuration>  
+    <maxTime>24:00</maxTime>  
+    <timeLeft>2014-04-16 15:19</timeLeft>  
+    <materials/>  
+    <status>Active</status>  
+    <isDeleted>false</isDeleted>  
+    <teamALeader>Amy</teamALeader>  
+    <teamBLeader>Lily</teamBLeader>  
+    <currentTurnTeam>A</currentTurnTeam>  
+    <acceptPositionTeam>A</acceptPositionTeam>  
+    <teamARep>Tom</teamARep>  
+    <teamBRep>Lily</teamBRep>  
+    <memberA>Amy,Tom,Bob,</memberA>  
+    <memberB>Lily,Jim,null,</memberB>  
+    <winner>C</winner> 
+  </debate>  
+  <debate id="fud385yck2627aui"> 
+    <id>fud385yck2627aui</id>  
+    <topic>test</topic>  
+    <description>test</description>  
+    <maxTurns>200</maxTurns>  
+    <turnDuration>200</turnDuration>  
+    <maxTime>24:00</maxTime>  
+    <timeLeft>2014-04-16 15:37</timeLeft>  
+    <materials></materials>  
+    <status>Active</status>  
+    <isDeleted>false</isDeleted>  
+    <teamALeader>Jim</teamALeader>  
+    <teamBLeader>Lily</teamBLeader>  
+    <currentTurnTeam>A</currentTurnTeam>  
+    <acceptPositionTeam>A</acceptPositionTeam>  
+    <teamARep>null</teamARep>  
+    <teamBRep>null</teamBRep>  
+    <memberA>Amy,Jim,Bob,</memberA>  
+    <memberB>Tom,Lily,null,</memberB>  
+    <winner>C</winner> 
+  </debate> 
+</Debate>

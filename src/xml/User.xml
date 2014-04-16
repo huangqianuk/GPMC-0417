@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<User> 
+  <!--src/com/gpmc/xml/User-->  
+  <user username="Tommy">
+    <id>pzs341szt4183nil</id>
+    <username>Tommy</username>
+    <password>tommy</password>
+    <name>Tommy</name>
+    <role>Tutor</role>
+  </user>
+  <user username="Amy">
+    <id>pzs341szt4323nil</id>
+     <username>Amy</username>
+    <password>amy</password>
+    <name>Amy</name>
+    <role>Team Leader</role>
+  </user>
+  <user username="Bob">
+    <id>pzs341szt1233nil</id>
+     <username>Bob</username>
+    <password>bob</password>
+    <name>Bob</name>
+    <role>Member</role>
+  </user>
+  <user username="Tom">
+    <id>pzs341szt2133nil</id>
+    <username>Tom</username>
+    <password>tom</password>
+    <name>Tom</name>
+    <role>Member</role>
+  </user>
+  <user username="Jim">
+    <id>pzs121szt1233nil</id>
+    <username>Jim</username>
+    <password>jim</password>
+    <name>Jim</name>
+    <role>Member</role>
+  </user>
+  <user username="Lily">
+    <id>pzs231szt1233nil</id>
+    <username>Lily</username>
+    <password>lily</password>
+    <name>Lily</name>
+    <role>Member</role>
+  </user>
+</User>
